@@ -1,0 +1,5 @@
+/*
+Select By ID
+*/
+
+Select * from CITY where ID = 1661;
